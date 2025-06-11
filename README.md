@@ -62,8 +62,8 @@ const currentFocus = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riley359&repo=your-awesome-project&theme=tokyonight)](https://github.com/Riley359/HeliosNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riley359&repo=another-cool-project&theme=tokyonight)](https://github.com/Riley359/GroovyChan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riley359&repo=HeliosNet&theme=tokyonight)](https://github.com/Riley359/HeliosNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riley359&repo=GroovyChan&theme=tokyonight)](https://github.com/Riley359/GroovyChan)
 
 </div>
 
@@ -71,8 +71,8 @@ const currentFocus = {
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/itsrileyy123)
-
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&redirect=true)](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&redirect=true)
 ---
 
 ## 💬 Let's Connect!
