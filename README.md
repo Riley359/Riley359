@@ -90,7 +90,7 @@ const currentFocus = {
 
 <div align="center">
 ### 🐍 Contribution Graph
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Riley359/Riley359/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
