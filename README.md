@@ -89,10 +89,6 @@ const currentFocus = {
 ---
 
 <div align="center">
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/Riley359/Riley359/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riley359&color=36BCF7&style=flat-square)
 
