@@ -71,8 +71,7 @@ const currentFocus = {
 
 ## 🎵 Currently Vibing To
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&redirect=true)](https://spotify-github-profile.vercel.app/api/view?uid=itsrileyy123&redirect=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=🎵+BLACKPINK+-+Pink+Venom;🎵+BLACKPINK+-+How+You+Like+That;🎵+BLACKPINK+-+DDU-DU+DDU-DU;🎵+BLACKPINK+-+Kill+This+Love)](https://git.io/typing-svg)
 ---
 
 ## 💬 Let's Connect!
